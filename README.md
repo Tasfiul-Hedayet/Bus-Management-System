@@ -1,4 +1,3 @@
-
 # Bus Management System
 
 ## Overview
